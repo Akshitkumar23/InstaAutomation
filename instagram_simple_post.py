@@ -1,10 +1,44 @@
 # Programme qui communique avec l'api d'Instagram / CARROUSSEL
 import config
 import json
+import os
+from pathlib import Path
 import requests
 from filestack import Client # Comment this line if you don't want filestack upload
 import sys
 import time
+
+
+def _load_config_json():
+    config_path = Path(os.getenv("INSTAGRAM_CONFIG_PATH", "config.json"))
+    if not config_path.exists():
+        return {}
+    try:
+        return json.loads(config_path.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+
+def _resolve_credential(value, env_key, json_key, json_data):
+    if value and not str(value).startswith("<"):
+        return value
+    env_value = os.getenv(env_key)
+    if env_value:
+        return env_value
+    return json_data.get("api_credentials", {}).get(json_key)
+
+
+def _load_credentials():
+    json_data = _load_config_json()
+    access_token = _resolve_credential(getattr(config, "ig_access_token", None), "INSTAGRAM_ACCESS_TOKEN", "instagram_access_token", json_data)
+    ig_user_id = _resolve_credential(getattr(config, "ig_user_id", None), "INSTAGRAM_USER_ID", "instagram_user_id", json_data)
+    filestack_api_key = _resolve_credential(getattr(config, "filestack_api_key", None), "FILESTACK_API_KEY", "filestack_api_key", json_data)
+
+    missing = [name for name, value in [("instagram_access_token", access_token), ("instagram_user_id", ig_user_id), ("filestack_api_key", filestack_api_key)] if not value]
+    if missing:
+        raise ValueError(f"Missing credentials: {', '.join(missing)}. Set config.py, config.json, or environment variables.")
+
+    return access_token, ig_user_id, filestack_api_key
 
 def publish_image(listImg, desc):
     #######################################################################################
@@ -18,11 +52,8 @@ def publish_image(listImg, desc):
     
     #######################################################################################    
 
-    client = Client(config.filestack_api_key) #Connect to filestack
-        
-    # Graph api access_token
-    access_token = config.ig_access_token
-    ig_user_id = config.ig_user_id
+    access_token, ig_user_id, filestack_api_key = _load_credentials()
+    client = Client(filestack_api_key) #Connect to filestack
 
     #Url to create container
     post_url = "https://graph.facebook.com/v15.0/{}/media".format(ig_user_id) 

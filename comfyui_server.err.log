@@ -1,0 +1,30 @@
+Checkpoint files will always be loaded safely.
+Found comfy_kitchen backend cuda: {'available': False, 'disabled': True, 'unavailable_reason': 'CUDA not available on this system', 'capabilities': []}
+Found comfy_kitchen backend triton: {'available': False, 'disabled': True, 'unavailable_reason': "ImportError: No module named 'triton'", 'capabilities': []}
+Found comfy_kitchen backend eager: {'available': True, 'disabled': False, 'unavailable_reason': None, 'capabilities': ['apply_rope', 'apply_rope1', 'dequantize_nvfp4', 'dequantize_per_tensor_fp8', 'quantize_nvfp4', 'quantize_per_tensor_fp8', 'scaled_mm_nvfp4']}
+Total VRAM 15773 MB, total RAM 15773 MB
+pytorch version: 2.10.0+cpu
+Set vram state to: DISABLED
+Device: cpu
+Using split optimization for attention
+Python version: 3.12.0 (tags/v3.12.0:0fb18b0, Oct  2 2023, 13:03:39) [MSC v.1935 64 bit (AMD64)]
+ComfyUI version: 0.12.3
+ComfyUI frontend version: 1.38.13
+[Prompt Server] web root: C:\Users\akshi\AppData\Local\Programs\Python\Python312\Lib\site-packages\comfyui_frontend_package\static
+
+Import times for custom nodes:
+   0.0 seconds: C:\Users\akshi\Desktop\instagram\instagram_simple_post\ComfyUI_repo\custom_nodes\websocket_image_save.py
+
+Context impl SQLiteImpl.
+Will assume non-transactional DDL.
+Assets scan(roots=['models']) completed in 0.028s (created=0, skipped_existing=12, orphans_pruned=0, total_seen=12)
+Using RAM pressure cache.
+Starting server
+
+To see the GUI go to: http://127.0.0.1:8188
+got prompt
+model weight dtype torch.float16, manual cast: torch.float32
+model_type EPS
+Using split attention in VAE
+Using split attention in VAE
+VAE load device: cpu, offload device: cpu, dtype: torch.float16

@@ -1,0 +1,116 @@
+2026-02-07 20:20:48,993 - INFO - Instagram AI Agent Scheduler initialized
+2026-02-07 20:20:48,993 - INFO - Running test cycle...
+2026-02-07 20:20:49,050 - INFO - ==================================================
+2026-02-07 20:20:49,050 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-07 20:20:49,050 - INFO - ==================================================
+2026-02-07 20:20:49,050 - INFO - Step 1: Selecting content topic
+2026-02-07 20:20:49,050 - INFO - Selected topic: Personal growth mindset
+2026-02-07 20:20:49,050 - INFO - Step 2: Generating image prompt
+2026-02-07 20:20:49,050 - INFO - Generated image prompt: Create a 1080x1080 Instagram feed post image about 'Personal growth mindset'. Clean, modern, Instagr...
+2026-02-07 20:20:49,050 - INFO - Step 3: Generating caption and hashtags
+2026-02-07 20:20:49,050 - INFO - Generated caption and 8 hashtags
+2026-02-07 20:20:49,050 - INFO - Post scheduled for 14:00
+2026-02-07 20:20:49,050 - INFO - Step 7: Updating training memory
+2026-02-07 20:20:49,050 - INFO - Training memory updated
+2026-02-07 20:20:49,050 - INFO - Step 4: Preparing execution output
+2026-02-07 20:20:49,050 - INFO - Daily cycle completed successfully
+2026-02-07 20:20:49,050 - INFO - ==================================================
+2026-02-07 20:20:49,050 - INFO -   Topic: Personal growth mindset
+2026-02-07 20:20:49,050 - INFO -   Hashtags: 8
+2026-02-07 20:21:00,286 - INFO - ==================================================
+2026-02-07 20:21:00,286 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-07 20:21:00,286 - INFO - ==================================================
+2026-02-07 20:21:00,286 - INFO - Step 1: Selecting content topic
+2026-02-07 20:21:00,286 - INFO - Selected topic: Time management techniques
+2026-02-07 20:21:00,286 - INFO - Step 2: Generating image prompt
+2026-02-07 20:21:00,286 - INFO - Generated image prompt: Create a 1080x1080 Instagram feed post image about 'Time management techniques'. Clean, modern, Inst...
+2026-02-07 20:21:00,286 - INFO - Step 3: Generating caption and hashtags
+2026-02-07 20:21:00,286 - INFO - Generated caption and 6 hashtags
+2026-02-07 20:21:00,286 - INFO - Post scheduled for 14:00
+2026-02-07 20:21:00,286 - INFO - Step 7: Updating training memory
+2026-02-07 20:21:00,286 - INFO - Training memory updated
+2026-02-07 20:21:00,286 - INFO - Step 4: Preparing execution output
+2026-02-07 20:21:00,286 - INFO - Daily cycle completed successfully
+2026-02-07 20:21:00,286 - INFO - ==================================================
+2026-02-08 09:21:34,446 - INFO - ==================================================
+2026-02-08 09:21:34,446 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-08 09:21:34,446 - INFO - ==================================================
+2026-02-08 09:21:34,446 - INFO - Step 1: Selecting content topic
+2026-02-08 09:21:34,446 - INFO - Selected topic: Overcoming procrastination
+2026-02-08 09:21:34,446 - INFO - Step 2: Generating image prompt
+2026-02-08 09:21:34,446 - INFO - Generated image prompt: Create a 1080x1080 Instagram feed post image about 'Overcoming procrastination'. Clean, modern, Inst...
+2026-02-08 09:21:34,446 - INFO - Step 3: Generating caption and hashtags
+2026-02-08 09:21:34,446 - INFO - Post scheduled for 14:00
+2026-02-08 09:21:34,446 - INFO - Step 7: Updating training memory
+2026-02-08 09:21:34,446 - INFO - Training memory updated
+2026-02-08 09:21:34,446 - INFO - Step 4: Preparing execution output
+2026-02-08 09:21:34,446 - INFO - Daily cycle completed successfully
+2026-02-08 09:21:34,446 - INFO - ==================================================
+2026-02-08 10:14:29,269 - INFO - ==================================================
+2026-02-08 10:14:29,269 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-08 10:14:29,269 - INFO - ==================================================
+2026-02-08 10:14:29,269 - INFO - Step 1: Selecting content topic
+2026-02-08 10:14:29,269 - INFO - Selected topic: Digital detox benefits
+2026-02-08 10:14:29,269 - INFO - Step 2: Generating image prompt
+2026-02-08 10:14:29,269 - INFO - Generated image prompt: Create a 1080x1080 Instagram feed post image about 'Digital detox benefits'. Clean, modern, Instagra...
+2026-02-08 10:14:29,269 - INFO - Step 2.5: Generating image
+2026-02-08 10:14:29,432 - INFO - Image generated: generated_images\instagram_post_20260208_101429.png
+2026-02-08 10:14:29,434 - INFO - Step 3: Generating caption and hashtags
+2026-02-08 10:15:18,160 - INFO - Post scheduled for 14:00
+2026-02-08 10:15:18,160 - INFO - Step 7: Updating training memory
+2026-02-08 10:15:18,160 - INFO - Training memory updated
+2026-02-08 10:15:18,160 - INFO - Step 4: Preparing execution output
+2026-02-08 10:15:18,160 - INFO - Daily cycle completed successfully
+2026-02-08 10:15:18,160 - INFO - ==================================================
+2026-02-08 12:18:10,462 - INFO - ==================================================
+2026-02-08 12:18:10,462 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-08 12:18:10,462 - INFO - ==================================================
+2026-02-08 12:18:10,462 - INFO - Step 1: Selecting content topic
+2026-02-08 12:18:10,462 - INFO - Selected topic: Mindfulness in daily life
+2026-02-08 12:18:10,462 - INFO - Step 2: Generating image prompt
+2026-02-08 12:18:10,462 - INFO - Generated image prompt: Create a 1080x1080 Instagram feed post image about 'Mindfulness in daily life'. Clean, modern, Insta...
+2026-02-08 12:18:10,462 - INFO - Step 2.5: Generating image
+2026-02-08 12:26:01,599 - INFO - ==================================================
+2026-02-08 12:26:01,599 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-08 12:26:01,599 - INFO - ==================================================
+2026-02-08 12:26:01,599 - INFO - Step 1: Selecting content topic
+2026-02-08 12:26:01,599 - INFO - Selected topic: Learning new skills efficiently
+2026-02-08 12:26:01,599 - INFO - Step 2: Generating image prompt
+2026-02-08 12:26:01,600 - INFO - Generated image prompt: Create a 1080x1080 Instagram feed post image about 'Learning new skills efficiently'. Clean, modern,...
+2026-02-08 12:26:01,600 - INFO - Step 2.5: Generating image
+2026-02-08 12:33:12,159 - ERROR - Timed out waiting for ComfyUI image generation
+2026-02-08 12:33:12,159 - INFO - Image generated: None
+2026-02-08 12:33:12,159 - INFO - Step 3: Generating caption and hashtags
+2026-02-08 12:33:22,303 - WARNING - Text provider failed, falling back to templates: [Errno 22] Invalid argument
+2026-02-08 12:33:22,306 - INFO - Post scheduled for 14:00
+2026-02-08 12:33:22,306 - INFO - Step 7: Updating training memory
+2026-02-08 12:33:22,307 - INFO - Training memory updated
+2026-02-08 12:33:22,307 - INFO - Step 4: Preparing execution output
+2026-02-08 12:33:22,307 - INFO - Daily cycle completed successfully
+2026-02-08 12:33:22,307 - INFO - ==================================================
+2026-02-08 12:41:03,233 - ERROR - Timed out waiting for ComfyUI image generation
+2026-02-08 12:41:03,234 - INFO - Image generated: None
+2026-02-08 12:41:03,234 - INFO - Step 3: Generating caption and hashtags
+2026-02-08 12:41:48,287 - INFO - Post scheduled for 14:00
+2026-02-08 12:41:48,288 - INFO - Step 7: Updating training memory
+2026-02-08 12:41:48,289 - INFO - Training memory updated
+2026-02-08 12:41:48,289 - INFO - Step 4: Preparing execution output
+2026-02-08 12:41:48,289 - INFO - Daily cycle completed successfully
+2026-02-08 12:41:48,289 - INFO - ==================================================
+2026-02-08 13:30:53,564 - INFO - ==================================================
+2026-02-08 13:30:53,564 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-08 13:30:53,564 - INFO - ==================================================
+2026-02-08 13:30:53,564 - INFO - Step 1: Selecting content topic
+2026-02-08 13:30:53,564 - INFO - Selected topic: Goal setting strategies
+2026-02-08 13:30:53,564 - INFO - Step 2: Generating image prompt
+2026-02-08 13:30:53,564 - INFO - Generated image prompt: Create a 1080x1080 Instagram feed post image about 'Goal setting strategies'. Clean, modern, Instagr...
+2026-02-08 13:30:53,564 - INFO - Step 2.5: Generating image
+2026-02-08 13:45:57,379 - ERROR - Timed out waiting for ComfyUI image generation
+2026-02-08 13:45:57,379 - INFO - Image generated: None
+2026-02-08 13:45:57,379 - INFO - Step 3: Generating caption and hashtags
+2026-02-08 13:46:38,910 - INFO - Post scheduled for 14:00
+2026-02-08 13:46:38,910 - INFO - Step 7: Updating training memory
+2026-02-08 13:46:38,910 - INFO - Training memory updated
+2026-02-08 13:46:38,910 - INFO - Step 4: Preparing execution output
+2026-02-08 13:46:38,910 - INFO - Daily cycle completed successfully
+2026-02-08 13:46:38,910 - INFO - ==================================================

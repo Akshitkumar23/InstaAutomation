@@ -1,0 +1,43 @@
+# Core dependencies for Instagram AI Agent System
+
+# Scheduling and automation
+schedule>=1.2.0
+APScheduler>=3.10.0
+
+# Configuration and data handling
+python-dotenv>=1.0.0
+pyyaml>=6.0
+toml>=0.10.0
+
+# Logging and monitoring
+loguru>=0.7.0
+rich>=13.0.0
+
+# HTTP requests and API integration
+requests>=2.31.0
+
+# Data processing
+pandas>=2.0.0
+
+# Optional: For future enhancement with actual model integration
+# torch>=2.0.0
+# transformers>=4.30.0
+# diffusers>=0.20.0
+# sentence-transformers>=2.2.0
+
+# Development and testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Instagram publishing (already cloned separately)
+# filestack-python>=4.0.0
+
+# Image processing (for future enhancement)
+# pillow>=10.0.0
+# opencv-python>=4.8.0
+
+# Web framework (for API endpoints - future enhancement)
+# fastapi>=0.104.0
+# uvicorn[standard]>=0.24.0

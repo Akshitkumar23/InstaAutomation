@@ -1,0 +1,153 @@
+2026-02-07 22:47:24,114 - __main__ - INFO - Instagram AI Agent Scheduler initialized
+2026-02-07 22:47:24,114 - __main__ - INFO - Running orchestrator once (manual execution)
+2026-02-07 22:47:24,114 - __main__ - INFO - Starting scheduled orchestrator execution
+2026-02-07 22:47:24,114 - orchestrator - INFO - ============================================================
+2026-02-07 22:47:24,114 - orchestrator - INFO - Starting Instagram content generation pipeline
+2026-02-07 22:47:24,114 - orchestrator - INFO - ============================================================
+2026-02-07 22:47:24,114 - orchestrator - INFO - Selected topic: Productivity hacks for remote workers
+2026-02-07 22:47:24,135 - orchestrator - INFO - Checking semantic similarity for topic: Productivity hacks for remote workers
+2026-02-07 22:47:24,135 - orchestrator - INFO - Topic passed similarity check
+2026-02-07 22:47:24,135 - orchestrator - INFO - Generating text content for topic: Productivity hacks for remote workers
+2026-02-07 22:47:24,136 - orchestrator - INFO - Text content generated: 23 hashtags
+2026-02-07 22:47:24,136 - orchestrator - INFO - Generating image prompt for topic: Productivity hacks for remote workers
+2026-02-07 22:47:24,136 - orchestrator - INFO - Image prompt generated: Create a 1080x1080 Instagram feed post image about 'Productivity hacks for remote workers'. Clean, m...
+2026-02-07 22:47:24,330 - ai_instagram_agent.models.learning.learning_engine - INFO - Performance updated: topic=Productivity hacks for remote workers, score=120
+2026-02-07 22:47:24,330 - orchestrator - INFO - Pipeline execution completed successfully
+2026-02-07 22:47:24,330 - orchestrator - INFO - ============================================================
+2026-02-07 22:47:24,330 - orchestrator - INFO - Simulating publishing for topic: Productivity hacks for remote workers
+2026-02-07 22:47:24,330 - orchestrator - INFO - Content published successfully (simulation)
+2026-02-07 22:47:24,330 - __main__ - INFO - Orchestrator execution completed successfully
+2026-02-07 22:47:24,331 - __main__ - INFO - Topic: Productivity hacks for remote workers
+2026-02-07 22:47:24,331 - __main__ - INFO - Scheduled for: 14:00
+2026-02-07 22:47:33,798 - __main__ - INFO - Instagram AI Agent Scheduler initialized
+2026-02-07 22:47:33,798 - __main__ - INFO - Running orchestrator once (manual execution)
+2026-02-07 22:47:33,798 - __main__ - INFO - Starting scheduled orchestrator execution
+2026-02-07 22:47:33,798 - orchestrator - INFO - ============================================================
+2026-02-07 22:47:33,798 - orchestrator - INFO - Starting Instagram content generation pipeline
+2026-02-07 22:47:33,798 - orchestrator - INFO - ============================================================
+2026-02-07 22:47:33,798 - orchestrator - INFO - Selected topic: Productivity hacks for remote workers
+2026-02-07 22:47:33,798 - orchestrator - INFO - Checking semantic similarity for topic: Productivity hacks for remote workers
+2026-02-07 22:47:33,798 - orchestrator - WARNING - Topic too similar to recent topics
+2026-02-07 22:47:33,798 - orchestrator - WARNING - Topic failed similarity check, selecting alternative
+2026-02-07 22:47:33,798 - orchestrator - INFO - Generating text content for topic: Morning routine optimization
+2026-02-07 22:47:33,798 - orchestrator - INFO - Text content generated: 23 hashtags
+2026-02-07 22:47:33,798 - orchestrator - INFO - Generating image prompt for topic: Morning routine optimization
+2026-02-07 22:47:33,798 - orchestrator - INFO - Image prompt generated: Create a 1080x1080 Instagram feed post image about 'Morning routine optimization'. Clean, modern, In...
+2026-02-07 22:47:33,867 - ai_instagram_agent.models.learning.learning_engine - INFO - Performance updated: topic=Morning routine optimization, score=95
+2026-02-07 22:47:33,867 - orchestrator - INFO - Pipeline execution completed successfully
+2026-02-07 22:47:33,867 - orchestrator - INFO - ============================================================
+2026-02-07 22:47:33,867 - orchestrator - INFO - Simulating publishing for topic: Morning routine optimization
+2026-02-07 22:47:33,867 - orchestrator - INFO - Content published successfully (simulation)
+2026-02-07 22:47:33,867 - __main__ - INFO - Orchestrator execution completed successfully
+2026-02-07 22:47:33,867 - __main__ - INFO - Topic: Morning routine optimization
+2026-02-07 22:47:33,867 - __main__ - INFO - Scheduled for: 14:00
+2026-02-07 22:47:43,394 - __main__ - INFO - Instagram AI Agent Scheduler initialized
+2026-02-07 22:47:43,394 - __main__ - INFO - Running orchestrator once (manual execution)
+2026-02-07 22:47:43,394 - __main__ - INFO - Starting scheduled orchestrator execution
+2026-02-07 22:47:43,394 - orchestrator - INFO - ============================================================
+2026-02-07 22:47:43,394 - orchestrator - INFO - Starting Instagram content generation pipeline
+2026-02-07 22:47:43,394 - orchestrator - INFO - ============================================================
+2026-02-07 22:47:43,410 - orchestrator - INFO - Selected topic: Productivity hacks for remote workers
+2026-02-07 22:47:43,410 - orchestrator - INFO - Checking semantic similarity for topic: Productivity hacks for remote workers
+2026-02-07 22:47:43,410 - orchestrator - WARNING - Topic too similar to recent topics
+2026-02-07 22:47:43,410 - orchestrator - WARNING - Topic failed similarity check, selecting alternative
+2026-02-07 22:47:43,410 - orchestrator - INFO - Generating text content for topic: Morning routine optimization
+2026-02-07 22:47:43,410 - orchestrator - INFO - Text content generated: 23 hashtags
+2026-02-07 22:47:43,410 - orchestrator - INFO - Generating image prompt for topic: Morning routine optimization
+2026-02-07 22:47:43,410 - orchestrator - INFO - Image prompt generated: Create a 1080x1080 Instagram feed post image about 'Morning routine optimization'. Clean, modern, In...
+2026-02-07 22:47:43,478 - ai_instagram_agent.models.learning.learning_engine - INFO - Performance updated: topic=Morning routine optimization, score=140
+2026-02-07 22:47:43,478 - orchestrator - INFO - Pipeline execution completed successfully
+2026-02-07 22:47:43,478 - orchestrator - INFO - ============================================================
+2026-02-07 22:47:43,478 - orchestrator - INFO - Simulating publishing for topic: Morning routine optimization
+2026-02-07 22:47:43,478 - orchestrator - INFO - Content published successfully (simulation)
+2026-02-07 22:47:43,478 - __main__ - INFO - Orchestrator execution completed successfully
+2026-02-07 22:47:43,478 - __main__ - INFO - Topic: Morning routine optimization
+2026-02-07 22:47:43,478 - __main__ - INFO - Scheduled for: 14:00
+2026-02-07 22:49:21,407 - __main__ - INFO - Instagram AI Agent Scheduler initialized
+2026-02-07 22:49:21,407 - __main__ - INFO - Running orchestrator once (manual execution)
+2026-02-07 22:49:21,407 - __main__ - INFO - Starting scheduled orchestrator execution
+2026-02-07 22:49:21,407 - orchestrator - INFO - ============================================================
+2026-02-07 22:49:21,407 - orchestrator - INFO - Starting Instagram content generation pipeline
+2026-02-07 22:49:21,407 - orchestrator - INFO - ============================================================
+2026-02-07 22:49:21,407 - orchestrator - INFO - Selected topic: Productivity hacks for remote workers
+2026-02-07 22:49:21,407 - orchestrator - INFO - Checking semantic similarity for topic: Productivity hacks for remote workers
+2026-02-07 22:49:21,407 - orchestrator - WARNING - Topic too similar to recent topics
+2026-02-07 22:49:21,407 - orchestrator - WARNING - Topic failed similarity check, selecting alternative
+2026-02-07 22:49:21,407 - orchestrator - INFO - Generating text content for topic: Morning routine optimization
+2026-02-07 22:49:21,407 - orchestrator - INFO - Text content generated: 23 hashtags
+2026-02-07 22:49:21,407 - orchestrator - INFO - Generating image prompt for topic: Morning routine optimization
+2026-02-07 22:49:21,407 - orchestrator - INFO - Image prompt generated: Create a 1080x1080 Instagram feed post image about 'Morning routine optimization'. Clean, modern, In...
+2026-02-07 22:49:21,488 - ai_instagram_agent.models.learning.learning_engine - INFO - Performance updated: topic=Morning routine optimization, score=110
+2026-02-07 22:49:21,488 - orchestrator - INFO - Pipeline execution completed successfully
+2026-02-07 22:49:21,488 - orchestrator - INFO - ============================================================
+2026-02-07 22:49:21,488 - orchestrator - INFO - Simulating publishing for topic: Morning routine optimization
+2026-02-07 22:49:21,488 - orchestrator - INFO - Content published successfully (simulation)
+2026-02-07 22:49:21,488 - __main__ - INFO - Orchestrator execution completed successfully
+2026-02-07 22:49:21,488 - __main__ - INFO - Topic: Morning routine optimization
+2026-02-07 22:49:21,488 - __main__ - INFO - Scheduled for: 14:00
+2026-02-07 22:49:27,811 - __main__ - INFO - Instagram AI Agent Scheduler initialized
+2026-02-07 22:49:27,811 - __main__ - INFO - Running orchestrator once (manual execution)
+2026-02-07 22:49:27,811 - __main__ - INFO - Starting scheduled orchestrator execution
+2026-02-07 22:49:27,811 - orchestrator - INFO - ============================================================
+2026-02-07 22:49:27,811 - orchestrator - INFO - Starting Instagram content generation pipeline
+2026-02-07 22:49:27,811 - orchestrator - INFO - ============================================================
+2026-02-07 22:49:27,811 - orchestrator - INFO - Selected topic: Productivity hacks for remote workers
+2026-02-07 22:49:27,811 - orchestrator - INFO - Checking semantic similarity for topic: Productivity hacks for remote workers
+2026-02-07 22:49:27,811 - orchestrator - WARNING - Topic too similar to recent topics
+2026-02-07 22:49:27,811 - orchestrator - WARNING - Topic failed similarity check, selecting alternative
+2026-02-07 22:49:27,811 - orchestrator - INFO - Generating text content for topic: Morning routine optimization
+2026-02-07 22:49:27,811 - orchestrator - INFO - Text content generated: 23 hashtags
+2026-02-07 22:49:27,811 - orchestrator - INFO - Generating image prompt for topic: Morning routine optimization
+2026-02-07 22:49:27,811 - orchestrator - INFO - Image prompt generated: Create a 1080x1080 Instagram feed post image about 'Morning routine optimization'. Clean, modern, In...
+2026-02-07 22:49:27,887 - ai_instagram_agent.models.learning.learning_engine - INFO - Performance updated: topic=Morning routine optimization, score=130
+2026-02-07 22:49:27,887 - orchestrator - INFO - Pipeline execution completed successfully
+2026-02-07 22:49:27,887 - orchestrator - INFO - ============================================================
+2026-02-07 22:49:27,887 - orchestrator - INFO - Simulating publishing for topic: Morning routine optimization
+2026-02-07 22:49:27,887 - orchestrator - INFO - Content published successfully (simulation)
+2026-02-07 22:49:27,887 - __main__ - INFO - Orchestrator execution completed successfully
+2026-02-07 22:49:27,887 - __main__ - INFO - Topic: Morning routine optimization
+2026-02-07 22:49:27,887 - __main__ - INFO - Scheduled for: 14:00
+2026-02-07 22:49:33,576 - __main__ - INFO - Instagram AI Agent Scheduler initialized
+2026-02-07 22:49:33,576 - __main__ - INFO - Running orchestrator once (manual execution)
+2026-02-07 22:49:33,576 - __main__ - INFO - Starting scheduled orchestrator execution
+2026-02-07 22:49:33,576 - orchestrator - INFO - ============================================================
+2026-02-07 22:49:33,576 - orchestrator - INFO - Starting Instagram content generation pipeline
+2026-02-07 22:49:33,576 - orchestrator - INFO - ============================================================
+2026-02-07 22:49:33,576 - orchestrator - INFO - Selected topic: Productivity hacks for remote workers
+2026-02-07 22:49:33,576 - orchestrator - INFO - Checking semantic similarity for topic: Productivity hacks for remote workers
+2026-02-07 22:49:33,576 - orchestrator - WARNING - Topic too similar to recent topics
+2026-02-07 22:49:33,576 - orchestrator - WARNING - Topic failed similarity check, selecting alternative
+2026-02-07 22:49:33,576 - orchestrator - INFO - Generating text content for topic: Morning routine optimization
+2026-02-07 22:49:33,576 - orchestrator - INFO - Text content generated: 23 hashtags
+2026-02-07 22:49:33,576 - orchestrator - INFO - Generating image prompt for topic: Morning routine optimization
+2026-02-07 22:49:33,576 - orchestrator - INFO - Image prompt generated: Create a 1080x1080 Instagram feed post image about 'Morning routine optimization'. Clean, modern, In...
+2026-02-07 22:49:33,662 - ai_instagram_agent.models.learning.learning_engine - INFO - Performance updated: topic=Morning routine optimization, score=105
+2026-02-07 22:49:33,662 - orchestrator - INFO - Pipeline execution completed successfully
+2026-02-07 22:49:33,662 - orchestrator - INFO - ============================================================
+2026-02-07 22:49:33,662 - orchestrator - INFO - Simulating publishing for topic: Morning routine optimization
+2026-02-07 22:49:33,662 - orchestrator - INFO - Content published successfully (simulation)
+2026-02-07 22:49:33,663 - __main__ - INFO - Orchestrator execution completed successfully
+2026-02-07 22:49:33,663 - __main__ - INFO - Topic: Morning routine optimization
+2026-02-07 22:49:33,663 - __main__ - INFO - Scheduled for: 14:00
+2026-02-07 23:25:03,480 - __main__ - INFO - Instagram AI Agent Scheduler initialized
+2026-02-07 23:25:03,480 - __main__ - INFO - Running orchestrator once (manual execution)
+2026-02-07 23:25:03,480 - __main__ - INFO - Starting scheduled orchestrator execution
+2026-02-07 23:25:03,480 - orchestrator - INFO - ============================================================
+2026-02-07 23:25:03,480 - orchestrator - INFO - Starting Instagram content generation pipeline
+2026-02-07 23:25:03,480 - orchestrator - INFO - ============================================================
+2026-02-07 23:25:03,480 - orchestrator - INFO - Selected topic: Productivity hacks for remote workers
+2026-02-07 23:25:03,480 - orchestrator - INFO - Checking semantic similarity for topic: Productivity hacks for remote workers
+2026-02-07 23:25:03,480 - orchestrator - WARNING - Topic too similar to recent topics
+2026-02-07 23:25:03,480 - orchestrator - WARNING - Topic failed similarity check, selecting alternative
+2026-02-07 23:25:03,480 - orchestrator - INFO - Generating text content for topic: Morning routine optimization
+2026-02-07 23:25:03,480 - orchestrator - INFO - Text content generated: 23 hashtags
+2026-02-07 23:25:03,480 - orchestrator - INFO - Generating image prompt for topic: Morning routine optimization
+2026-02-07 23:25:03,480 - orchestrator - INFO - Image prompt generated: Create a 1080x1080 Instagram feed post image about 'Morning routine optimization'. Clean, modern, In...
+2026-02-07 23:25:03,558 - ai_instagram_agent.models.learning.learning_engine - INFO - Performance updated: topic=Morning routine optimization, score=123
+2026-02-07 23:25:03,558 - orchestrator - INFO - Pipeline execution completed successfully
+2026-02-07 23:25:03,558 - orchestrator - INFO - ============================================================
+2026-02-07 23:25:03,558 - orchestrator - INFO - Simulating publishing for topic: Morning routine optimization
+2026-02-07 23:25:03,558 - orchestrator - INFO - Content published successfully (simulation)
+2026-02-07 23:25:03,558 - __main__ - INFO - Orchestrator execution completed successfully
+2026-02-07 23:25:03,558 - __main__ - INFO - Topic: Morning routine optimization
+2026-02-07 23:25:03,558 - __main__ - INFO - Scheduled for: 14:00

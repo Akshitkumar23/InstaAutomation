@@ -1,0 +1,117 @@
+{
+  "api_credentials": {
+    "instagram_access_token": "",
+    "instagram_user_id": "",
+    "filestack_api_key": ""
+  },
+  "posting_schedule": {
+    "daily_time": "14:00",
+    "timezone": "Asia/Calcutta",
+    "enabled": true
+  },
+  "content_preferences": {
+    "max_caption_length": 150,
+    "min_hashtags": 15,
+    "max_hashtags": 25,
+    "preferred_emojis": [
+      "*",
+      "!",
+      "+",
+      ":)",
+      "<3"
+    ],
+    "banned_hashtags": [
+      "followforfollow",
+      "likeforlike",
+      "followme",
+      "instagood",
+      "instadaily",
+      "follow",
+      "like",
+      "comment",
+      "share"
+    ],
+    "content_types": [
+      "educational",
+      "motivational",
+      "system-based",
+      "habit-based",
+      "insight-based"
+    ]
+  },
+  "performance_thresholds": {
+    "engagement_decline_threshold": 3,
+    "min_engagement_score": 50,
+    "max_engagement_score": 1000
+  },
+  "image_generation": {
+    "dimensions": "1080x1080",
+    "style": "clean_modern_instagram",
+    "max_prompt_length": 500,
+    "allowed_styles": [
+      "minimalist",
+      "flat_design",
+      "typography",
+      "abstract",
+      "nature_inspired",
+      "geometric"
+    ],
+    "enabled": true,
+    "output_dir": "generated_images"
+  },
+  "monitoring": {
+    "log_level": "INFO",
+    "enable_file_logging": true,
+    "enable_console_logging": true,
+    "log_retention_days": 30,
+    "performance_tracking": true
+  },
+  "ai_model_settings": {
+    "temperature": 0.7,
+    "max_tokens": 1000,
+    "top_p": 0.9,
+    "frequency_penalty": 0.1,
+    "presence_penalty": 0.1
+  },
+  "publisher": {
+    "enabled": true,
+    "provider": "instagram_simple_post"
+  },
+  "model_providers": {
+    "text": {
+      "provider": "template",
+      "model_path": "model_weights/llm/phi2",
+      "device": "auto",
+      "max_new_tokens": 220,
+      "temperature": 0.7,
+      "top_p": 0.9
+    },
+    "embeddings": {
+      "provider": "simple",
+      "model_path": "",
+      "device": "auto",
+      "similarity_threshold": 0.85
+    },
+    "image": {
+      "provider": "comfyui",
+      "output_dir": "generated_images",
+      "comfyui": {
+        "server_url": "http://127.0.0.1:8188",
+        "workflow_path": "ComfyUI_repo/workflows/instagram_pose_ipadapter.json",
+        "prompt_node_id": "2",
+        "prompt_field": "text",
+        "negative_prompt": "",
+        "checkpoint_name": "sd_xl_base_1.0.safetensors",
+        "input_dir": "ComfyUI_repo/input",
+        "reference_image": "input/reference.png",
+        "pose_dir": "pose_library",
+        "pose_history_path": "pose_history.json",
+        "reference_node_id": "6",
+        "pose_node_id": "8",
+        "pose_size": 512,
+        "timeout_sec": 180,
+        "poll_interval_sec": 2
+      }
+    }
+  }
+}

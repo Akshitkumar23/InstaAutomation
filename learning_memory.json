@@ -1,0 +1,468 @@
+{
+  "topic_performance": {
+    "Productivity hacks for remote workers": [
+      120
+    ],
+    "Morning routine optimization": [
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ]
+  },
+  "hashtag_performance": {
+    "#productivity": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#motivation": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#lifestyle": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#success": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#growth": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#mindset": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#habits": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#goals": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#inspiration": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#selfimprovement": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#focus": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#learning": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#discipline": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#consistency": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#positivity": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#mindfulness": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#worksmart": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#personaldevelopment": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#goalsetting": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#timemanagement": [
+      120,
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#hacks": [
+      120
+    ],
+    "#remote": [
+      120
+    ],
+    "#workers": [
+      120
+    ],
+    "#morning": [
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#routine": [
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ],
+    "#optimization": [
+      95,
+      140,
+      110,
+      130,
+      105,
+      123
+    ]
+  },
+  "caption_patterns": {
+    "39": [
+      120
+    ],
+    "25": [
+      95
+    ],
+    "22": [
+      140
+    ],
+    "37": [
+      105
+    ],
+    "25": [
+      123
+    ]
+  },
+  "engagement_history": [
+    {
+      "timestamp": "2026-02-07T22:47:24.314443",
+      "topic": "Productivity hacks for remote workers",
+      "hashtags": [
+        "#productivity",
+        "#motivation",
+        "#lifestyle",
+        "#success",
+        "#growth",
+        "#mindset",
+        "#habits",
+        "#goals",
+        "#inspiration",
+        "#selfimprovement",
+        "#focus",
+        "#learning",
+        "#discipline",
+        "#consistency",
+        "#positivity",
+        "#mindfulness",
+        "#worksmart",
+        "#personaldevelopment",
+        "#goalsetting",
+        "#timemanagement",
+        "#hacks",
+        "#remote",
+        "#workers"
+      ],
+      "caption": "* Productivity hacks for remote workers! Here are 3 practical ideas you can try today:\n\n1. Start with one small step\n2. Keep it simple and repeatable\n3. Track progress for 7 days\n\nSave this post if it helps.",
+      "engagement_score": 120
+    },
+    {
+      "timestamp": "2026-02-07T22:47:33.866463",
+      "topic": "Morning routine optimization",
+      "hashtags": [
+        "#productivity",
+        "#motivation",
+        "#lifestyle",
+        "#success",
+        "#growth",
+        "#mindset",
+        "#habits",
+        "#goals",
+        "#inspiration",
+        "#selfimprovement",
+        "#focus",
+        "#learning",
+        "#discipline",
+        "#consistency",
+        "#positivity",
+        "#mindfulness",
+        "#worksmart",
+        "#personaldevelopment",
+        "#goalsetting",
+        "#timemanagement",
+        "#morning",
+        "#routine",
+        "#optimization"
+      ],
+      "caption": "+ Morning routine optimization made simple:\n\n1) Identify the bottleneck\n2) Build a tiny routine\n3) Review weekly\n\nShare this with someone who needs it.",
+      "engagement_score": 95
+    },
+    {
+      "timestamp": "2026-02-07T22:47:43.478098",
+      "topic": "Morning routine optimization",
+      "hashtags": [
+        "#productivity",
+        "#motivation",
+        "#lifestyle",
+        "#success",
+        "#growth",
+        "#mindset",
+        "#habits",
+        "#goals",
+        "#inspiration",
+        "#selfimprovement",
+        "#focus",
+        "#learning",
+        "#discipline",
+        "#consistency",
+        "#positivity",
+        "#mindfulness",
+        "#worksmart",
+        "#personaldevelopment",
+        "#goalsetting",
+        "#timemanagement",
+        "#morning",
+        "#routine",
+        "#optimization"
+      ],
+      "caption": ":) Quick breakdown: Morning routine optimization\n\nWhy it matters:\n- Clarity\n- Consistency\n- Compounding results\n\nWhich point will you try first?",
+      "engagement_score": 140
+    },
+    {
+      "timestamp": "2026-02-07T22:49:21.488064",
+      "topic": "Morning routine optimization",
+      "hashtags": [
+        "#productivity",
+        "#motivation",
+        "#lifestyle",
+        "#success",
+        "#growth",
+        "#mindset",
+        "#habits",
+        "#goals",
+        "#inspiration",
+        "#selfimprovement",
+        "#focus",
+        "#learning",
+        "#discipline",
+        "#consistency",
+        "#positivity",
+        "#mindfulness",
+        "#worksmart",
+        "#personaldevelopment",
+        "#goalsetting",
+        "#timemanagement",
+        "#morning",
+        "#routine",
+        "#optimization"
+      ],
+      "caption": "! Morning routine optimization! Here are 3 practical ideas you can try today:\n\n1. Start with one small step\n2. Keep it simple and repeatable\n3. Track progress for 7 days\n\nSave this post if it helps.",
+      "engagement_score": 110
+    },
+    {
+      "timestamp": "2026-02-07T22:49:27.887848",
+      "topic": "Morning routine optimization",
+      "hashtags": [
+        "#productivity",
+        "#motivation",
+        "#lifestyle",
+        "#success",
+        "#growth",
+        "#mindset",
+        "#habits",
+        "#goals",
+        "#inspiration",
+        "#selfimprovement",
+        "#focus",
+        "#learning",
+        "#discipline",
+        "#consistency",
+        "#positivity",
+        "#mindfulness",
+        "#worksmart",
+        "#personaldevelopment",
+        "#goalsetting",
+        "#timemanagement",
+        "#morning",
+        "#routine",
+        "#optimization"
+      ],
+      "caption": ":) Morning routine optimization! Here are 3 practical ideas you can try today:\n\n1. Start with one small step\n2. Keep it simple and repeatable\n3. Track progress for 7 days\n\nSave this post if it helps.",
+      "engagement_score": 130
+    },
+    {
+      "timestamp": "2026-02-07T22:49:33.660069",
+      "topic": "Morning routine optimization",
+      "hashtags": [
+        "#productivity",
+        "#motivation",
+        "#lifestyle",
+        "#success",
+        "#growth",
+        "#mindset",
+        "#habits",
+        "#goals",
+        "#inspiration",
+        "#selfimprovement",
+        "#focus",
+        "#learning",
+        "#discipline",
+        "#consistency",
+        "#positivity",
+        "#mindfulness",
+        "#worksmart",
+        "#personaldevelopment",
+        "#goalsetting",
+        "#timemanagement",
+        "#morning",
+        "#routine",
+        "#optimization"
+      ],
+      "caption": "<3 Morning routine optimization! Here are 3 practical ideas you can try today:\n\n1. Start with one small step\n2. Keep it simple and repeatable\n3. Track progress for 7 days\n\nSave this post if it helps.",
+      "engagement_score": 105
+    },
+    {
+      "timestamp": "2026-02-07T23:25:03.558412",
+      "topic": "Morning routine optimization",
+      "hashtags": [
+        "#productivity",
+        "#motivation",
+        "#lifestyle",
+        "#success",
+        "#growth",
+        "#mindset",
+        "#habits",
+        "#goals",
+        "#inspiration",
+        "#selfimprovement",
+        "#focus",
+        "#learning",
+        "#discipline",
+        "#consistency",
+        "#positivity",
+        "#mindfulness",
+        "#worksmart",
+        "#personaldevelopment",
+        "#goalsetting",
+        "#timemanagement",
+        "#morning",
+        "#routine",
+        "#optimization"
+      ],
+      "caption": ":) Morning routine optimization made simple:\n\n1) Identify the bottleneck\n2) Build a tiny routine\n3) Review weekly\n\nShare this with someone who needs it.",
+      "engagement_score": 123
+    }
+  ],
+  "exploration_mode": false,
+  "last_exploration": null
+}
