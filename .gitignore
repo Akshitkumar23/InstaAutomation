@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+logs_archive/
+
+# Generated Images
+generated_images/
+test_generated_images/
+
+# Memory/Cache
+agent_memory.json
+learning_memory.json
+execution_output_*.json
+
+# ComfyUI (if not using)
+ComfyUI/
+ComfyUI_repo/models/
+ComfyUI_repo/output/
+ComfyUI_repo/input/
+ComfyUI_repo/temp/
+
+# Model Weights
+model_weights/
+*.safetensors
+*.ckpt
+*.pth
+
+# Temporary
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Config (sensitive)
+config.json
+.env
+
+# Keep test config
+!config_test.json

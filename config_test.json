@@ -1,0 +1,63 @@
+{
+  "api_credentials": {
+    "instagram_access_token": "TEST_TOKEN",
+    "instagram_user_id": "TEST_USER_ID",
+    "filestack_api_key": "TEST_API_KEY"
+  },
+  "posting_schedule": {
+    "daily_time": "14:00",
+    "timezone": "Asia/Calcutta",
+    "enabled": false
+  },
+  "content_preferences": {
+    "max_caption_length": 150,
+    "min_hashtags": 15,
+    "max_hashtags": 25,
+    "preferred_emojis": [
+      "*"
+    ],
+    "banned_hashtags": [],
+    "content_types": [
+      "educational",
+      "motivational"
+    ]
+  },
+  "performance_thresholds": {
+    "engagement_decline_threshold": 3,
+    "min_engagement_score": 50,
+    "max_engagement_score": 1000
+  },
+  "image_generation": {
+    "dimensions": "1080x1080",
+    "style": "clean_modern_instagram",
+    "enabled": true,
+    "output_dir": "test_generated_images"
+  },
+  "monitoring": {
+    "log_level": "INFO",
+    "enable_file_logging": true,
+    "enable_console_logging": true,
+    "performance_tracking": false
+  },
+  "publisher": {
+    "enabled": false,
+    "provider": "instagram_simple_post"
+  },
+  "model_providers": {
+    "text": {
+      "provider": "template"
+    },
+    "embeddings": {
+      "provider": "simple",
+      "similarity_threshold": 0.85
+    },
+    "image": {
+      "provider": "diffusers",
+      "output_dir": "test_generated_images",
+      "diffusers": {
+        "model_id": "runwayml/stable-diffusion-v1-5",
+        "device": "cpu"
+      }
+    }
+  }
+}

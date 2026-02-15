@@ -45,7 +45,7 @@
     "max_engagement_score": 1000
   },
   "image_generation": {
-    "dimensions": "1080x1080",
+    "dimensions": "512x512",
     "style": "clean_modern_instagram",
     "max_prompt_length": 500,
     "allowed_styles": [
@@ -93,24 +93,11 @@
       "similarity_threshold": 0.85
     },
     "image": {
-      "provider": "comfyui",
+      "provider": "diffusers",
       "output_dir": "generated_images",
-      "comfyui": {
-        "server_url": "http://127.0.0.1:8188",
-        "workflow_path": "ComfyUI_repo/workflows/instagram_pose_ipadapter.json",
-        "prompt_node_id": "2",
-        "prompt_field": "text",
-        "negative_prompt": "",
-        "checkpoint_name": "sd_xl_base_1.0.safetensors",
-        "input_dir": "ComfyUI_repo/input",
-        "reference_image": "input/reference.png",
-        "pose_dir": "pose_library",
-        "pose_history_path": "pose_history.json",
-        "reference_node_id": "6",
-        "pose_node_id": "8",
-        "pose_size": 512,
-        "timeout_sec": 180,
-        "poll_interval_sec": 2
+      "diffusers": {
+        "model_id": "runwayml/stable-diffusion-v1-5",
+        "device": "cpu"
       }
     }
   }

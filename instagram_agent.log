@@ -114,3 +114,380 @@
 2026-02-08 13:46:38,910 - INFO - Step 4: Preparing execution output
 2026-02-08 13:46:38,910 - INFO - Daily cycle completed successfully
 2026-02-08 13:46:38,910 - INFO - ==================================================
+2026-02-10 17:29:25,692 - INFO - ==================================================
+2026-02-10 17:29:25,692 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-10 17:29:25,692 - INFO - ==================================================
+2026-02-10 17:29:25,692 - INFO - Step 1: Selecting content topic
+2026-02-10 17:29:25,692 - INFO - Selected topic: Digital minimalism principles
+2026-02-10 17:29:25,692 - INFO - Step 2: Generating image prompt
+2026-02-10 17:29:25,692 - INFO - Generated image prompt: Create a 1080x1080 Instagram feed post image about 'Digital minimalism principles'. Clean, modern, I...
+2026-02-10 17:29:25,700 - INFO - Step 2.5: Generating image
+2026-02-10 17:29:26,076 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\test_generated_images\instagram_post_20260210_172925.png
+2026-02-10 17:29:26,076 - INFO - Step 3: Generating caption and hashtags
+2026-02-10 17:29:26,081 - INFO - Post scheduled for 14:00
+2026-02-10 17:29:26,081 - INFO - Step 7: Updating training memory
+2026-02-10 17:29:26,081 - INFO - Training memory updated
+2026-02-10 17:29:26,081 - INFO - Step 4: Preparing execution output
+2026-02-10 17:29:26,081 - INFO - Daily cycle completed successfully
+2026-02-10 17:29:26,081 - INFO - ==================================================
+2026-02-15 11:49:59,772 - INFO - ==================================================
+2026-02-15 11:49:59,773 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 11:49:59,773 - INFO - ==================================================
+2026-02-15 11:49:59,773 - INFO - Step 1: Selecting content topic
+2026-02-15 11:49:59,774 - INFO - Selected topic: Productivity hacks for remote workers
+2026-02-15 11:49:59,774 - INFO - Step 2: Generating image prompt
+2026-02-15 11:49:59,774 - INFO - Generated image prompt: Create a 1080x1080 Instagram feed post image about 'Productivity hacks for remote workers'. Clean, m...
+2026-02-15 11:49:59,774 - INFO - Step 2.5: Generating image
+2026-02-15 11:50:00,013 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\test_generated_images\instagram_post_20260215_114959.png
+2026-02-15 11:50:00,014 - INFO - Step 3: Generating caption and hashtags
+2026-02-15 11:50:00,014 - INFO - Post scheduled for 14:00
+2026-02-15 11:50:00,015 - INFO - Step 7: Updating training memory
+2026-02-15 11:50:00,016 - INFO - Training memory updated
+2026-02-15 11:50:00,016 - INFO - Step 4: Preparing execution output
+2026-02-15 11:50:00,016 - INFO - Daily cycle completed successfully
+2026-02-15 11:50:00,016 - INFO - ==================================================
+2026-02-15 12:10:35,064 - INFO - ==================================================
+2026-02-15 12:10:35,064 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 12:10:35,064 - INFO - ==================================================
+2026-02-15 12:10:35,064 - INFO - Step 1: Selecting content topic
+2026-02-15 12:10:35,064 - INFO - Selected topic: Creative problem solving
+2026-02-15 12:10:35,064 - INFO - Step 2: Generating image prompt
+2026-02-15 12:10:35,064 - INFO - Generated image prompt: Create a 1080x1080 Instagram feed post image about 'Creative problem solving'. Clean, modern, Instag...
+2026-02-15 12:10:35,064 - INFO - Step 2.5: Generating image
+2026-02-15 12:10:35,315 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\test_generated_images\instagram_post_20260215_121035.png
+2026-02-15 12:10:35,316 - INFO - Step 3: Generating caption and hashtags
+2026-02-15 12:10:35,316 - INFO - Post scheduled for 14:00
+2026-02-15 12:10:35,316 - INFO - Step 7: Updating training memory
+2026-02-15 12:10:35,318 - INFO - Training memory updated
+2026-02-15 12:10:35,318 - INFO - Step 4: Preparing execution output
+2026-02-15 12:10:35,318 - INFO - Daily cycle completed successfully
+2026-02-15 12:10:35,318 - INFO - ==================================================
+2026-02-15 12:17:56,916 - INFO - ==================================================
+2026-02-15 12:17:56,916 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 12:17:56,917 - INFO - ==================================================
+2026-02-15 12:17:56,917 - INFO - Step 1: Selecting content topic
+2026-02-15 12:17:56,917 - INFO - Selected topic: Decision making frameworks
+2026-02-15 12:17:56,917 - INFO - Step 2: Generating image prompt
+2026-02-15 12:17:56,917 - INFO - Generated image prompt: Create a 1080x1080 Instagram feed post image about 'Decision making frameworks'. Clean, modern, Inst...
+2026-02-15 12:17:56,917 - INFO - Step 2.5: Generating image
+2026-02-15 12:17:57,037 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\test_generated_images\instagram_post_20260215_121756.png
+2026-02-15 12:17:57,037 - INFO - Step 3: Generating caption and hashtags
+2026-02-15 12:17:57,037 - INFO - Post scheduled for 14:00
+2026-02-15 12:17:57,037 - INFO - Step 7: Updating training memory
+2026-02-15 12:17:57,037 - INFO - Training memory updated
+2026-02-15 12:17:57,037 - INFO - Step 4: Preparing execution output
+2026-02-15 12:17:57,037 - INFO - Daily cycle completed successfully
+2026-02-15 12:17:57,037 - INFO - ==================================================
+2026-02-15 12:18:39,083 - INFO - ==================================================
+2026-02-15 12:18:39,083 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 12:18:39,083 - INFO - ==================================================
+2026-02-15 12:18:39,083 - INFO - Step 1: Selecting content topic
+2026-02-15 12:18:39,084 - INFO - Selected topic: Focus and concentration methods
+2026-02-15 12:18:39,084 - INFO - Step 2: Generating image prompt
+2026-02-15 12:18:39,084 - INFO - Generated image prompt: Create a 1080x1080 Instagram feed post image about 'Focus and concentration methods'. Clean, modern,...
+2026-02-15 12:18:39,085 - INFO - Step 2.5: Generating image
+2026-02-15 12:18:39,189 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\test_generated_images\instagram_post_20260215_121839.png
+2026-02-15 12:18:39,190 - INFO - Step 3: Generating caption and hashtags
+2026-02-15 12:18:39,191 - INFO - Post scheduled for 14:00
+2026-02-15 12:18:39,191 - INFO - Step 7: Updating training memory
+2026-02-15 12:18:39,193 - INFO - Training memory updated
+2026-02-15 12:18:39,193 - INFO - Step 4: Preparing execution output
+2026-02-15 12:18:39,193 - INFO - Daily cycle completed successfully
+2026-02-15 12:18:39,193 - INFO - ==================================================
+2026-02-15 12:22:17,482 - INFO - ==================================================
+2026-02-15 12:22:17,482 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 12:22:17,483 - INFO - ==================================================
+2026-02-15 12:22:17,483 - INFO - Step 1: Selecting content topic
+2026-02-15 12:22:17,484 - INFO - Selected topic: Mindfulness in daily life
+2026-02-15 12:22:17,484 - INFO - Step 2: Generating image prompt
+2026-02-15 12:22:17,484 - INFO - Generated nature-focused image prompt: Beautiful nature photography: Autumn forest with golden leaves and a peaceful stream. Overlay elegan...
+2026-02-15 12:22:17,485 - INFO - Step 2.5: Generating image
+2026-02-15 12:22:17,604 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\test_generated_images\instagram_post_20260215_122217.png
+2026-02-15 12:22:17,604 - INFO - Step 3: Generating caption and hashtags
+2026-02-15 12:22:17,605 - INFO - Post scheduled for 14:00
+2026-02-15 12:22:17,605 - INFO - Step 7: Updating training memory
+2026-02-15 12:22:17,607 - INFO - Training memory updated
+2026-02-15 12:22:17,607 - INFO - Step 4: Preparing execution output
+2026-02-15 12:22:17,607 - INFO - Daily cycle completed successfully
+2026-02-15 12:22:17,607 - INFO - ==================================================
+2026-02-15 12:23:00,205 - INFO - ==================================================
+2026-02-15 12:23:00,205 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 12:23:00,206 - INFO - ==================================================
+2026-02-15 12:23:00,206 - INFO - Step 1: Selecting content topic
+2026-02-15 12:23:00,206 - INFO - Selected topic: Building positive habits
+2026-02-15 12:23:00,206 - INFO - Step 2: Generating image prompt
+2026-02-15 12:23:00,207 - INFO - Generated nature-focused image prompt: Beautiful nature photography: Waterfall cascading down moss-covered rocks in a tropical forest. Over...
+2026-02-15 12:23:00,207 - INFO - Step 2.5: Generating image
+2026-02-15 12:23:00,306 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\test_generated_images\instagram_post_20260215_122300.png
+2026-02-15 12:23:00,306 - INFO - Step 3: Generating caption and hashtags
+2026-02-15 12:23:00,306 - INFO - Post scheduled for 14:00
+2026-02-15 12:23:00,306 - INFO - Step 7: Updating training memory
+2026-02-15 12:23:00,306 - INFO - Training memory updated
+2026-02-15 12:23:00,306 - INFO - Step 4: Preparing execution output
+2026-02-15 12:23:00,306 - INFO - Daily cycle completed successfully
+2026-02-15 12:23:00,306 - INFO - ==================================================
+2026-02-15 12:23:25,915 - INFO - ==================================================
+2026-02-15 12:23:25,915 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 12:23:25,915 - INFO - ==================================================
+2026-02-15 12:23:25,915 - INFO - Step 1: Selecting content topic
+2026-02-15 12:23:25,927 - INFO - Selected topic: Morning routine optimization
+2026-02-15 12:23:25,927 - INFO - Step 2: Generating image prompt
+2026-02-15 12:23:25,927 - INFO - Generated nature-focused image prompt: Beautiful nature photography: Rolling hills covered in wildflowers under a blue sky. Overlay elegant...
+2026-02-15 12:23:25,927 - INFO - Step 2.5: Generating image
+2026-02-15 12:23:26,045 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\test_generated_images\instagram_post_20260215_122325.png
+2026-02-15 12:23:26,046 - INFO - Step 3: Generating caption and hashtags
+2026-02-15 12:23:26,046 - INFO - Post scheduled for 14:00
+2026-02-15 12:23:26,046 - INFO - Step 7: Updating training memory
+2026-02-15 12:23:26,048 - INFO - Training memory updated
+2026-02-15 12:23:26,049 - INFO - Step 4: Preparing execution output
+2026-02-15 12:23:26,049 - INFO - Daily cycle completed successfully
+2026-02-15 12:23:26,049 - INFO - ==================================================
+2026-02-15 12:29:20,945 - INFO - ==================================================
+2026-02-15 12:29:20,945 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 12:29:20,945 - INFO - ==================================================
+2026-02-15 12:29:20,946 - INFO - Step 1: Selecting content topic
+2026-02-15 12:29:20,946 - INFO - Selected topic: Work-life balance tips
+2026-02-15 12:29:20,946 - INFO - Step 2: Generating image prompt
+2026-02-15 12:29:20,946 - INFO - Generated nature-focused image prompt: Beautiful nature photography: Serene river flowing through lush green forest with sunlight filtering...
+2026-02-15 12:29:20,947 - INFO - Step 2.5: Generating image
+2026-02-15 12:29:21,061 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\test_generated_images\instagram_post_20260215_122920.png
+2026-02-15 12:29:21,061 - INFO - Step 3: Generating caption and hashtags
+2026-02-15 12:29:21,062 - INFO - Post scheduled for 14:00
+2026-02-15 12:29:21,062 - INFO - Step 7: Updating training memory
+2026-02-15 12:29:21,064 - INFO - Training memory updated
+2026-02-15 12:29:21,064 - INFO - Step 4: Preparing execution output
+2026-02-15 12:29:21,065 - INFO - Daily cycle completed successfully
+2026-02-15 12:29:21,065 - INFO - ==================================================
+2026-02-15 12:34:27,023 - INFO - Initializing DiffusersImageProvider with model: runwayml/stable-diffusion-v1-5
+2026-02-15 12:34:27,024 - INFO - ==================================================
+2026-02-15 12:34:27,024 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 12:34:27,025 - INFO - ==================================================
+2026-02-15 12:34:27,025 - INFO - Step 1: Selecting content topic
+2026-02-15 12:34:27,025 - INFO - Selected topic: Personal growth mindset
+2026-02-15 12:34:27,025 - INFO - Step 2: Generating image prompt
+2026-02-15 12:34:27,025 - INFO - Generated nature-focused image prompt: Beautiful nature photography: Rolling hills covered in wildflowers under a blue sky. Overlay elegant...
+2026-02-15 12:34:27,025 - INFO - Step 2.5: Generating image
+2026-02-15 12:35:10,475 - INFO - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2026-02-15 12:35:10,475 - INFO - This may take a few minutes on first run (downloading ~4GB model)...
+2026-02-15 12:35:11,139 - INFO - HTTP Request: GET https://huggingface.co/api/models/runwayml/stable-diffusion-v1-5 "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:11,454 - INFO - HTTP Request: GET https://huggingface.co/api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 "HTTP/1.1 200 OK"
+2026-02-15 12:35:11,771 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/model_index.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:12,034 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:12,034 - WARNING - Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-02-15 12:35:12,074 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/model_index.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:12,134 - INFO - HTTP Request: GET https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/model_index.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:12,464 - INFO - HTTP Request: GET https://huggingface.co/api/models/runwayml/stable-diffusion-v1-5/revision/main "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:12,738 - INFO - HTTP Request: GET https://huggingface.co/api/models/stable-diffusion-v1-5/stable-diffusion-v1-5/revision/main "HTTP/1.1 200 OK"
+2026-02-15 12:35:13,014 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/feature_extractor/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,085 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/safety_checker/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,095 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/text_encoder/model.safetensors "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,095 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/scheduler/scheduler_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,100 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,102 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer/merges.txt "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,104 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer/special_tokens_map.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,107 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/text_encoder/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,288 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/feature_extractor/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,342 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/safety_checker/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,362 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/scheduler/scheduler_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,362 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer/tokenizer_config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,367 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/text_encoder/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,367 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/text_encoder/model.safetensors "HTTP/1.1 302 Found"
+2026-02-15 12:35:13,370 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer/merges.txt "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:13,370 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer/special_tokens_map.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:14,596 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/safety_checker%2Fconfig.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,597 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/feature_extractor%2Fpreprocessor_config.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,597 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer%2Fmerges.txt "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,600 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer%2Ftokenizer_config.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,600 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/text_encoder%2Fconfig.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,602 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/scheduler%2Fscheduler_config.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,603 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer%2Fspecial_tokens_map.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,664 - INFO - HTTP Request: GET https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/safety_checker%2Fconfig.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,664 - INFO - HTTP Request: GET https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/feature_extractor%2Fpreprocessor_config.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,664 - INFO - HTTP Request: GET https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer%2Fmerges.txt "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,664 - INFO - HTTP Request: GET https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/text_encoder%2Fconfig.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,679 - INFO - HTTP Request: GET https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/scheduler%2Fscheduler_config.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,680 - INFO - HTTP Request: GET https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer%2Fspecial_tokens_map.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,680 - INFO - HTTP Request: GET https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer%2Ftokenizer_config.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,805 - INFO - HTTP Request: GET https://huggingface.co/api/models/stable-diffusion-v1-5/stable-diffusion-v1-5/xet-read-token/451f4fe16113bff5a5d2269ed5ad43b0592e9a14 "HTTP/1.1 200 OK"
+2026-02-15 12:35:14,984 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet/diffusion_pytorch_model.safetensors "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:14,984 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer/vocab.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:14,985 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:14,985 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/vae/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:14,985 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/vae/diffusion_pytorch_model.safetensors "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:15,529 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer/vocab.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:15,534 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/vae/diffusion_pytorch_model.safetensors "HTTP/1.1 302 Found"
+2026-02-15 12:35:15,535 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/vae/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:15,536 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet/config.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:35:15,539 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet/diffusion_pytorch_model.safetensors "HTTP/1.1 302 Found"
+2026-02-15 12:35:15,611 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/vae%2Fconfig.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:15,613 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer%2Fvocab.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:15,630 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet%2Fconfig.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:15,702 - INFO - HTTP Request: GET https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/unet%2Fconfig.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:15,703 - INFO - HTTP Request: GET https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/tokenizer%2Fvocab.json "HTTP/1.1 200 OK"
+2026-02-15 12:35:15,703 - INFO - HTTP Request: GET https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/vae%2Fconfig.json "HTTP/1.1 200 OK"
+2026-02-15 12:44:31,737 - INFO - Generating image with Diffusers: 1080x1080
+2026-02-15 12:44:31,737 - INFO - Prompt: Beautiful nature photography: Rolling hills covered in wildflowers under a blue sky. Overlay elegant...
+2026-02-15 12:51:50,624 - INFO - Initializing DiffusersImageProvider with model: runwayml/stable-diffusion-v1-5
+2026-02-15 12:51:50,625 - INFO - ==================================================
+2026-02-15 12:51:50,625 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 12:51:50,625 - INFO - ==================================================
+2026-02-15 12:51:50,626 - INFO - Step 1: Selecting content topic
+2026-02-15 12:51:50,627 - INFO - Selected topic: Progress measurement
+2026-02-15 12:51:50,628 - INFO - Step 2: Generating image prompt
+2026-02-15 12:51:50,628 - INFO - Generated nature-focused image prompt: Tropical beach palms, professional nature photography, vibrant colors, 4K quality
+2026-02-15 12:51:50,629 - INFO - Step 2.5: Generating image
+2026-02-15 12:52:02,813 - INFO - Initializing DiffusersImageProvider with model: runwayml/stable-diffusion-v1-5
+2026-02-15 12:52:02,813 - INFO - ==================================================
+2026-02-15 12:52:02,813 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 12:52:02,814 - INFO - ==================================================
+2026-02-15 12:52:02,814 - INFO - Step 1: Selecting content topic
+2026-02-15 12:52:02,815 - INFO - Selected topic: Identity-based habits
+2026-02-15 12:52:02,815 - INFO - Step 2: Generating image prompt
+2026-02-15 12:52:02,815 - INFO - Generated nature-focused image prompt: Bamboo forest path, professional nature photography, vibrant colors, 4K quality
+2026-02-15 12:52:02,816 - INFO - Step 2.5: Generating image
+2026-02-15 12:52:39,018 - INFO - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2026-02-15 12:52:39,019 - INFO - This may take a few minutes on first run (downloading ~4GB model)...
+2026-02-15 12:52:39,905 - INFO - HTTP Request: GET https://huggingface.co/api/models/runwayml/stable-diffusion-v1-5 "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:52:40,191 - INFO - HTTP Request: GET https://huggingface.co/api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 "HTTP/1.1 200 OK"
+2026-02-15 12:52:40,576 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/model_index.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:52:40,882 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:52:40,930 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/model_index.json "HTTP/1.1 200 OK"
+2026-02-15 12:52:43,843 - ERROR - Failed to load Diffusers pipeline: The paging file is too small for this operation to complete. (os error 1455)
+2026-02-15 12:52:43,847 - ERROR - Failed to generate image with Diffusers: The paging file is too small for this operation to complete. (os error 1455)
+2026-02-15 12:52:43,849 - ERROR - Falling back to placeholder image...
+2026-02-15 12:52:44,181 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\test_generated_images\instagram_post_20260215_125243.png
+2026-02-15 12:52:44,198 - INFO - Step 3: Generating caption and hashtags
+2026-02-15 12:52:44,200 - INFO - Post scheduled for 14:00
+2026-02-15 12:52:44,202 - INFO - Step 7: Updating training memory
+2026-02-15 12:52:44,212 - INFO - Training memory updated
+2026-02-15 12:52:44,213 - INFO - Step 4: Preparing execution output
+2026-02-15 12:52:44,215 - INFO - Daily cycle completed successfully
+2026-02-15 12:52:44,216 - INFO - ==================================================
+2026-02-15 12:57:39,405 - INFO - Initializing DiffusersImageProvider with model: runwayml/stable-diffusion-v1-5
+2026-02-15 12:57:39,406 - INFO - ==================================================
+2026-02-15 12:57:39,406 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 12:57:39,406 - INFO - ==================================================
+2026-02-15 12:57:39,406 - INFO - Step 1: Selecting content topic
+2026-02-15 12:57:39,407 - INFO - Selected topic: Priority matrix framework
+2026-02-15 12:57:39,407 - INFO - Step 2: Generating image prompt
+2026-02-15 12:57:39,407 - INFO - Generated nature-focused image prompt: Bamboo forest path, professional nature photography, vibrant colors, 4K quality
+2026-02-15 12:57:39,408 - INFO - Step 2.5: Generating image
+2026-02-15 12:57:50,083 - INFO - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2026-02-15 12:57:50,083 - INFO - This may take a few minutes on first run (downloading ~4GB model)...
+2026-02-15 12:57:50,784 - INFO - HTTP Request: GET https://huggingface.co/api/models/runwayml/stable-diffusion-v1-5 "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:57:51,042 - INFO - HTTP Request: GET https://huggingface.co/api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 "HTTP/1.1 200 OK"
+2026-02-15 12:57:51,279 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/model_index.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:57:51,542 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 12:57:51,576 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/model_index.json "HTTP/1.1 200 OK"
+2026-02-15 12:57:52,544 - INFO - Generating image with Diffusers: 1080x1080
+2026-02-15 12:57:52,545 - INFO - Prompt: Bamboo forest path, professional nature photography, vibrant colors, 4K quality...
+2026-02-15 13:05:33,668 - INFO - Initializing DiffusersImageProvider with model: runwayml/stable-diffusion-v1-5
+2026-02-15 13:05:33,674 - INFO - ==================================================
+2026-02-15 13:05:33,674 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 13:05:33,675 - INFO - ==================================================
+2026-02-15 13:05:33,675 - INFO - Step 1: Selecting content topic
+2026-02-15 13:05:33,675 - INFO - Selected topic: Exercise habit formation
+2026-02-15 13:05:33,675 - INFO - Step 2: Generating image prompt
+2026-02-15 13:05:33,675 - INFO - Generated nature-focused image prompt: Rolling hills with wildflowers, professional nature photography, vibrant colors, 4K quality
+2026-02-15 13:05:33,675 - INFO - Step 2.5: Generating image
+2026-02-15 13:06:38,162 - INFO - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2026-02-15 13:06:38,169 - INFO - This may take a few minutes on first run (downloading ~4GB model)...
+2026-02-15 13:06:39,085 - INFO - HTTP Request: GET https://huggingface.co/api/models/runwayml/stable-diffusion-v1-5 "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 13:06:39,436 - INFO - HTTP Request: GET https://huggingface.co/api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 "HTTP/1.1 200 OK"
+2026-02-15 13:06:39,703 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/model_index.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 13:06:40,110 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 13:06:40,149 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/model_index.json "HTTP/1.1 200 OK"
+2026-02-15 13:06:43,875 - INFO - Generating image with Diffusers: 1080x1080
+2026-02-15 13:06:43,875 - INFO - Prompt: Rolling hills with wildflowers, professional nature photography, vibrant colors, 4K quality...
+2026-02-15 15:22:52,113 - INFO - ==================================================
+2026-02-15 15:22:52,113 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 15:22:52,113 - INFO - ==================================================
+2026-02-15 15:22:52,113 - INFO - Step 1: Selecting content topic
+2026-02-15 15:22:52,113 - INFO - Selected topic: Annual goal setting
+2026-02-15 15:22:52,113 - INFO - Step 2: Generating image prompt
+2026-02-15 15:22:52,113 - INFO - Generated nature-focused image prompt: Waterfall in tropical forest, professional nature photography, vibrant colors, 4K quality
+2026-02-15 15:22:52,113 - INFO - Step 2.5: Generating image
+2026-02-15 15:22:52,113 - ERROR - ComfyUI workflow file not found: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\ComfyUI_repo\workflows\instagram_pose_ipadapter.json
+2026-02-15 15:22:52,113 - WARNING - Image provider failed; using placeholder image instead.
+2026-02-15 15:22:52,415 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\generated_images\instagram_post_20260215_152252.png
+2026-02-15 15:22:52,415 - INFO - Step 3: Generating caption and hashtags
+2026-02-15 15:22:52,415 - INFO - Post scheduled for 14:00
+2026-02-15 15:22:52,415 - INFO - Step 7: Updating training memory
+2026-02-15 15:22:52,426 - INFO - Training memory updated
+2026-02-15 15:22:52,426 - INFO - Step 4: Preparing execution output
+2026-02-15 15:22:52,427 - INFO - Daily cycle completed successfully
+2026-02-15 15:22:52,427 - INFO - ==================================================
+2026-02-15 15:24:35,093 - INFO - Initializing DiffusersImageProvider with model: runwayml/stable-diffusion-v1-5
+2026-02-15 15:24:35,093 - INFO - ==================================================
+2026-02-15 15:24:35,093 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 15:24:35,093 - INFO - ==================================================
+2026-02-15 15:24:35,093 - INFO - Step 1: Selecting content topic
+2026-02-15 15:24:35,105 - INFO - Selected topic: Note-taking systems
+2026-02-15 15:24:35,107 - INFO - Step 2: Generating image prompt
+2026-02-15 15:24:35,107 - INFO - Generated nature-focused image prompt: Forest river with sunlight, professional nature photography, vibrant colors, 4K quality
+2026-02-15 15:24:35,109 - INFO - Step 2.5: Generating image
+2026-02-15 15:25:01,193 - INFO - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2026-02-15 15:25:01,193 - INFO - This may take a few minutes on first run (downloading ~4GB model)...
+2026-02-15 15:25:16,863 - INFO - Generating image with Diffusers: 1080x1080
+2026-02-15 15:25:16,863 - INFO - Prompt: Forest river with sunlight, professional nature photography, vibrant colors, 4K quality...
+2026-02-15 15:37:36,638 - INFO - Initializing DiffusersImageProvider with model: runwayml/stable-diffusion-v1-5
+2026-02-15 15:37:36,638 - INFO - ==================================================
+2026-02-15 15:37:36,638 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 15:37:36,638 - INFO - ==================================================
+2026-02-15 15:37:36,641 - INFO - Step 1: Selecting content topic
+2026-02-15 15:37:36,641 - INFO - Selected topic: Mental health awareness
+2026-02-15 15:37:36,642 - INFO - Step 2: Generating image prompt
+2026-02-15 15:37:36,642 - INFO - Generated nature-focused image prompt: Tropical beach palms, professional nature photography, vibrant colors, 4K quality
+2026-02-15 15:37:36,642 - INFO - Step 2.5: Generating image
+2026-02-15 15:38:01,514 - INFO - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2026-02-15 15:38:01,514 - INFO - This may take a few minutes on first run (downloading ~4GB model)...
+2026-02-15 15:38:05,093 - INFO - HTTP Request: GET https://huggingface.co/api/models/runwayml/stable-diffusion-v1-5 "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 15:38:20,928 - INFO - HTTP Request: GET https://huggingface.co/api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 "HTTP/1.1 200 OK"
+2026-02-15 15:38:23,428 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/model_index.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 15:38:24,896 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 15:38:25,464 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/model_index.json "HTTP/1.1 200 OK"
+2026-02-15 15:38:27,949 - INFO - [SUCCESS] Diffusers pipeline loaded successfully!
+2026-02-15 15:38:27,949 - INFO - Generating image with Diffusers: 512x512
+2026-02-15 15:38:27,949 - INFO - Prompt: Tropical beach palms, professional nature photography, vibrant colors, 4K quality...
+2026-02-15 15:43:04,873 - INFO - [SUCCESS] Image generated successfully: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\generated_images\instagram_post_20260215_153736.png
+2026-02-15 15:43:04,873 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\generated_images\instagram_post_20260215_153736.png
+2026-02-15 15:43:04,873 - INFO - Step 3: Generating caption and hashtags
+2026-02-15 15:43:04,873 - INFO - Post scheduled for 14:00
+2026-02-15 15:43:04,873 - INFO - Step 7: Updating training memory
+2026-02-15 15:43:04,873 - INFO - Training memory updated
+2026-02-15 15:43:04,873 - INFO - Step 4: Preparing execution output
+2026-02-15 15:43:04,873 - INFO - Daily cycle completed successfully
+2026-02-15 15:43:04,873 - INFO - ==================================================
+2026-02-15 15:53:39,097 - INFO - Initializing DiffusersImageProvider with model: runwayml/stable-diffusion-v1-5
+2026-02-15 15:53:39,100 - INFO - Instagram AI Agent Scheduler initialized
+2026-02-15 15:53:39,101 - INFO - Running test cycle...
+2026-02-15 15:53:39,103 - INFO - Initializing DiffusersImageProvider with model: runwayml/stable-diffusion-v1-5
+2026-02-15 15:53:39,117 - INFO - ==================================================
+2026-02-15 15:53:39,117 - INFO - Starting daily Instagram AI Agent cycle
+2026-02-15 15:53:39,125 - INFO - ==================================================
+2026-02-15 15:53:39,125 - INFO - Step 1: Selecting content topic
+2026-02-15 15:53:39,125 - INFO - Selected topic: Memory improvement methods
+2026-02-15 15:53:39,128 - INFO - Step 2: Generating image prompt
+2026-02-15 15:53:39,128 - INFO - Generated nature-focused image prompt: Foggy mountain pass road, professional nature photography, vibrant colors, 4K quality
+2026-02-15 15:53:39,128 - INFO - Step 2.5: Generating image
+2026-02-15 15:53:56,626 - INFO - Loading Stable Diffusion model: runwayml/stable-diffusion-v1-5
+2026-02-15 15:53:56,628 - INFO - This may take a few minutes on first run (downloading ~4GB model)...
+2026-02-15 15:53:57,578 - INFO - HTTP Request: GET https://huggingface.co/api/models/runwayml/stable-diffusion-v1-5 "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 15:53:57,871 - INFO - HTTP Request: GET https://huggingface.co/api/models/stable-diffusion-v1-5/stable-diffusion-v1-5 "HTTP/1.1 200 OK"
+2026-02-15 15:53:58,161 - INFO - HTTP Request: HEAD https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/model_index.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 15:53:59,894 - INFO - HTTP Request: HEAD https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/resolve/main/model_index.json "HTTP/1.1 307 Temporary Redirect"
+2026-02-15 15:54:00,397 - INFO - HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/stable-diffusion-v1-5/stable-diffusion-v1-5/451f4fe16113bff5a5d2269ed5ad43b0592e9a14/model_index.json "HTTP/1.1 200 OK"
+2026-02-15 15:54:02,205 - INFO - [SUCCESS] Diffusers pipeline loaded successfully!
+2026-02-15 15:54:02,205 - INFO - Generating image with Diffusers: 512x512
+2026-02-15 15:54:02,205 - INFO - Prompt: Foggy mountain pass road, professional nature photography, vibrant colors, 4K quality...
+2026-02-15 15:58:33,605 - INFO - [SUCCESS] Image generated successfully: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\generated_images\instagram_post_20260215_155339.png
+2026-02-15 15:58:33,605 - INFO - Image generated: C:\Users\akshi\Desktop\instaAutomate\InstaAutomation\generated_images\instagram_post_20260215_155339.png
+2026-02-15 15:58:33,605 - INFO - Step 3: Generating caption and hashtags
+2026-02-15 15:58:33,605 - INFO - Post scheduled for 14:00
+2026-02-15 15:58:33,605 - INFO - Step 7: Updating training memory
+2026-02-15 15:58:33,605 - INFO - Training memory updated
+2026-02-15 15:58:33,605 - INFO - Step 4: Preparing execution output
+2026-02-15 15:58:33,605 - INFO - Daily cycle completed successfully
+2026-02-15 15:58:33,605 - INFO - ==================================================
+2026-02-15 15:58:33,614 - INFO -   Topic: Memory improvement methods
+2026-02-15 15:58:33,614 - INFO -   Hashtags: 23
